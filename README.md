@@ -20,18 +20,6 @@ This project is an AI-powered image generator built using React. It leverages th
    ```bash
    git clone https://github.com/Mohamednowfil/Ai-Image-Gen
 
-![Sample Image](src/assets/Untitled.jpg)
-![Sample Image](src/assets/Untitled.jpg)
+![Sample Image](src/components/sample/Screenshot%202024-12-12%20001644.png)
+![Sample Image](src/components/sample/Screenshot%202024-12-11%20235850.png)
 
-Ai-Image-Generator/
-├── src/
-│   ├── components/
-│   │   └── Imagegen.js            # Main component for image generation
-│   ├── assets/
-│   │   └── Untitled.jpg           # Placeholder image
-│   ├── App.js                     # Main app file
-│   └── index.js                   # Entry point for React app
-├── public/
-│   └── index.html                 # HTML template
-├── package.json                   # Project dependencies
-└── README.md                      # Project documentation (this file)
